@@ -2,4 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/pomfun.web/bin/Debug/netcoreapp2.2
+/pomfun.web/bin
+/pomfun.web/obj
+/pomfun.web/.vs
